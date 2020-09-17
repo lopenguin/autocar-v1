@@ -1,0 +1,18 @@
+Current systems:
+- GY support
+- Motor support
+
+Goals:
+- Colision detection
+- Point towards a direction
+- Obstacle avoidance
+- Remote control ***
+- Machine learning
+- Automatic pathfinding
+
+Future systems:
+- distance sensor support
+- BLE support
+- SD card logging
+- IMU support
+- GPS support
